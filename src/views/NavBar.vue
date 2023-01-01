@@ -19,7 +19,7 @@
         <router-link to="/">
             <div class="w-1/3 inline-flex justify-center ">
                 <div class="text-3xl my-auto mr-3 font-extrabold">Andrew</div>
-                <img src="src\assets\logo_home.png" alt="logo" class="mx-auto h-20 rounded-lg">
+                <img src="/src/assets/logo_home.png" alt="logo" class="mx-auto h-20 rounded-lg">
                 <div class="text-3xl my-auto ml-3 font-extrabold">Kim</div>
             </div>
         </router-link>
@@ -41,7 +41,7 @@
         <!-- Home Icon -->
         <div class="inline-flex justify-center mx-auto">
             <div class="text-3xl my-auto mr-3 font-extrabold">Andrew</div>
-            <router-link to="/"><img src="src\assets\logo_home_small.png" alt="logo" class="mx-auto h-10 rounded-lg"></router-link>
+            <router-link to="/"><img src="/src/assets/logo_home_small.png" alt="logo" class="mx-auto h-10 rounded-lg"></router-link>
             <div class="text-3xl my-auto ml-3 font-extrabold">Kim</div>
         </div>
     </div>

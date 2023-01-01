@@ -34,7 +34,7 @@
       <!-- Center Column -->
       <div class="w-1/3 my-auto">
         <div class="flex-column justify-center">
-          <img src="src\assets\home\portrait.png" alt="" class="w-2/3 rounded-t-full mx-auto mb-10"  style="background: linear-gradient(#ABD699, #75C9B7)">
+          <img src="/src/assets/home/portrait.png" alt="" class="w-2/3 rounded-t-full mx-auto mb-10"  style="background: linear-gradient(#ABD699, #75C9B7)">
           <!-- Who am I? -->
           <div>
               <h1 class="text-lg font-semibold px-4 pb-2">Andrew stays on top of cutting-edge research in <b> nanomaterials </b> and is eager to use his engineering perspective to create more efficient and eco-friendly<b> battery and energy storage </b> technologies.</h1>
@@ -67,13 +67,13 @@
     <!-- Publishers -->
     <div class="flex justify-center">
       <div class="inline-flex items-center justify-between mx-auto">
-        <img src="src\assets\publishers\acs.png" alt="" class="h-12 mx-3 grayscale">
-        <img src="src\assets\publishers\elsevier.png" alt="" class="h-20 mx-3  grayscale">
-        <img src="src\assets\publishers\wiley.png" alt="" class="h-5 mx-3 grayscale">
-        <img src="src\assets\publishers\springer.png" alt="" class="h-10 mx-3 grayscale">
-        <img src="src\assets\publishers\mdpi.png" alt="" class="h-16 mx-3 grayscale">
-        <img src="src\assets\publishers\asme.png" alt="" class="h-12 mx-3 grayscale">
-        <img src="src\assets\publishers\IEEE.png" alt="" class="h-10 mx-3 grayscale">
+        <img src="/src/assets/publishers/acs.png" alt="" class="h-12 mx-3 grayscale">
+        <img src="/src/assets/publishers/elsevier.png" alt="" class="h-20 mx-3  grayscale">
+        <img src="/src/assets/publishers/wiley.png" alt="" class="h-5 mx-3 grayscale">
+        <img src="/src/assets/publishers/springer.png" alt="" class="h-10 mx-3 grayscale">
+        <img src="/src/assets/publishers/mdpi.png" alt="" class="h-16 mx-3 grayscale">
+        <img src="/src/assets/publishers/asme.png" alt="" class="h-12 mx-3 grayscale">
+        <img src="/src/assets/publishers/IEEE.png" alt="" class="h-10 mx-3 grayscale">
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@
     <div class="grid grid-cols-6 grid-rows-6 h-full lg:hidden">
         <!-- Center Image -->
         <div class="row-start-1 row-span-4 col-span-full mb-auto">
-            <img src="src\assets\home\portrait.png" alt="" class="w-5/6 rounded-t-full mx-auto" style="background: linear-gradient(#ABD699, #75C9B7);">
+            <img src="/src/assets/home/portrait.png" alt="" class="w-5/6 rounded-t-full mx-auto" style="background: linear-gradient(#ABD699, #75C9B7);">
         </div>
         <!-- Publications -->
         <div class="flex-column col-start-1 col-span-2 row-start-1 row-span-1 mt-auto mx-2 text-center">
@@ -105,13 +105,13 @@
         </div>
         <!-- Publishers -->
         <div class="row-start-5 row-span-2 col-span-full w-ful inline-flex items-center justify-center flex-wrap">
-          <img src="src\assets\publishers\acs.png" alt="" class="h-10 mx-2 grayscale">
-          <img src="src\assets\publishers\elsevier.png" alt="" class="h-16 mx-2  grayscale">
-          <img src="src\assets\publishers\wiley.png" alt="" class="h-5 mx-2 grayscale">
-          <img src="src\assets\publishers\springer.png" alt="" class="h-8 mx-3 grayscale">
-          <img src="src\assets\publishers\mdpi.png" alt="" class="h-16 mx-2 grayscale">
-          <img src="src\assets\publishers\asme.png" alt="" class="h-10 mx-2 grayscale">
-          <img src="src\assets\publishers\IEEE.png" alt="" class="h-8 mx-2 grayscale">
+          <img src="/src/assets/publishers/acs.png" alt="" class="h-10 mx-2 grayscale">
+          <img src="/src/assets/publishers/elsevier.png" alt="" class="h-16 mx-2  grayscale">
+          <img src="/src/assets/publishers/wiley.png" alt="" class="h-5 mx-2 grayscale">
+          <img src="/src/assets/publishers/springer.png" alt="" class="h-8 mx-3 grayscale">
+          <img src="/src/assets/publishers/mdpi.png" alt="" class="h-16 mx-2 grayscale">
+          <img src="/src/assets/publishers/asme.png" alt="" class="h-10 mx-2 grayscale">
+          <img src="/src/assets/publishers/IEEE.png" alt="" class="h-8 mx-2 grayscale">
           
         </div>
       </div>

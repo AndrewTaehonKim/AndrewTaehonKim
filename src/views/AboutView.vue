@@ -17,7 +17,7 @@
           </div>
         <!-- Image -->
         <div class="w-1/3 my-auto">
-          <img src="src/assets/about/profile.jpg" alt="" class="rounded-xl">
+          <img src="/src/assets/about/profile.jpg" alt="" class="rounded-xl">
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@
     <div class="flex-col mb-4">
       <!-- Image -->
         <div class="mx-auto">
-          <img src="src/assets/about/profile.jpg" alt="" class="w-1/2 rounded-xl mx-auto">
+          <img src="/src/assets/about/profile.jpg" alt="" class="w-1/2 rounded-xl mx-auto">
         </div>
         <!-- Text -->
           <div class="flex-col px-4 mt-2">
