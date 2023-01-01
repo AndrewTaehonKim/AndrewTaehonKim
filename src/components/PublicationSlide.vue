@@ -4,7 +4,7 @@
         <div class="slide hidden lg:grid grid-cols-7 grid-rows-1 h-1/4 align-middle justify-center my-10">
             <!-- Image Side -->
             <div class="flex justify-end col-start-2 col-span-2">
-                <img :src="'/src/assets/publications/'+image" alt="" class="max-h-56 my-auto">
+                <img :src="'/publications/'+image" alt="" class="max-h-56 my-auto">
             </div>
             <!-- Content Side -->
             <div class="flex-col col-start-4 col-span-3 rounded-md pl-8 place align-middle">
@@ -30,7 +30,7 @@
     <!-- Phone -->
     <div class="slide flex-col lg:hidden w-screen h-1/4 align-middle justify-center my-10 px-4">
         <!-- Image Side -->
-        <img :src="'/src/assets/publications/'+image" alt="" class="max-h-56 my-auto mx-auto">
+        <img :src="'/publications/'+image" alt="" class="max-h-56 my-auto mx-auto">
         <!-- Content Side -->
         <div class="flex-col col-start-4 col-span-3 rounded-mdplace align-middle">
                 <!-- Heading -->
