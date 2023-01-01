@@ -1,0 +1,68 @@
+[
+    {
+        "title" : "AirShare: Improving Airflow Between Rooms with the Door Closed",
+        "image" : "airshare.gif",
+        "date": "2020",
+        "link": "https://www.youtube.com/watch?v=bRAYL-BJXIM&ab_channel=AW",
+        "description": "I co-invented AirShare, a novel fan that promotes air circulation between two rooms even when the door is closed, saving thousands of kilowatts in heating and cooling.",
+        "keywords": ["Invention", "Air Quality", "Air Exchange"],
+        "company": "Invention Factory",
+        "companyLink": "https://inventionfactory.org/",
+        "pin": true
+    },
+    {
+        "title" : "CardboardTests",
+        "image" : "cbt.jpg",
+        "date": "2023",
+        "link": "https://cardboardtests.com/",
+        "description": "I co-founded CardboardTests, a platform for students to create and share exam-like test questions. CBT gives access to test-like problems for students all around the world regardless of financial status or race.",
+        "keywords": ["Web Development", "Test Equity", "Laravel"],
+        "company": "CardboardTests",
+        "companyLink": "https://cardboardtests.com/",
+        "pin": false
+    },
+    {
+        "title" : "This Website",
+        "image" : "website.jpg",
+        "date": "2023",
+        "link": "https://andrewtaehonkim.github.io/",
+        "description": "This personal website was designed and created from scratch using Vue.js and maintained using GitHub Pages.",
+        "keywords": ["Web Development", "Vue.js", "Portfolio"],
+        "company": "https://andrewtaehonkim.github.io/",
+        "companyLink": "https://andrewtaehonkim.github.io/",
+        "pin": false
+    },
+    {
+        "title" : "COVID-19 Document Formatter",
+        "image" : "covid.png",
+        "date": "2022",
+        "link": "http://www.xn--pn3b81f24a16f9rc46e3xr.com/",
+        "description": "I created a user-friendly application that cut document formatting time from 8 HOURS to 20 MINUTES per week. Multiple documents were required weekly by the South Korean government for COVID-19 safety.",
+        "keywords": ["App Development", "COVID-19", "Python"],
+        "company": "ACE Senior Daycare (에이스복지센터)",
+        "companyLink": "http://www.xn--pn3b81f24a16f9rc46e3xr.com/",
+        "pin": false
+    },
+    {
+        "title" : "Multi-stage Compressor Design",
+        "image" : "compressor.jpg",
+        "date": "2020",
+        "link": "https://akakimmykim.github.io/static/media/CompressorDesign_ME407.7d0aaae4.pdf",
+        "description": "My team and I designed and optimized a multi-stage compressor using computational modeling and fluid dynamics simulation to meet specific criteria.",
+        "keywords": ["ANSYS Fluent", "CFD", "Design Optimization"],
+        "company": "The Cooper Union",
+        "companyLink": "",
+        "pin": false
+    },
+    {
+        "title" : "Alternative BECCS Process",
+        "image" : "BECCS.jfif",
+        "date": "2019",
+        "link": "",
+        "description": "Is it feasible to get energy from common bio-waste in a carbon negative process? We pyrolized common food waste like walnut shells to make biochar at varying high temperatures (gassification) to optimize properties as fuel.",
+        "keywords": ["Biofuel", "Biowaste Conversion", "Pyrolysis"],
+        "company": "The Cooper Union",
+        "companyLink": "",
+        "pin": false
+    }
+]

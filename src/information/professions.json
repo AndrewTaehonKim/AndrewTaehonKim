@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "Senior Caretaker",
+        "image" : "ace.jpg",
+        "date": "2021-2023",
+        "description": "I took care of the elderly during the COVID pandemic. Tasks included feeding, aiding walking, massaging, and returning them home. I also designed a computer program that automated document preparation (see my projects for details).",
+        "keywords": ["Public Service", "Elderly Care", "Software Development"],
+        "company": "ACE Senior Daycare (에이스복지센터)",
+        "companyLink": "http://www.xn--pn3b81f24a16f9rc46e3xr.com/",
+        "pin": false
+    },
+    {
+        "title" : "Lab Technician",
+        "image" : "labtech.jpg",
+        "date": "2019-2020",
+        "description": "I set up and cleaned up experiments performed by freshme, sophomore, and junior Chemistry students.",
+        "keywords": ["Chemistry", "Laboratory", "Experiment Preparation"],
+        "company": "Cooper Union",
+        "companyLink": "",
+        "pin": true
+    },
+    {
+        "title" : "Web Development Intern",
+        "image" : "chee.png",
+        "date": "2021",
+        "description": "I helped update the backend website for Switch Malaysia by implementing Content Management System Software (CMS) via Aimeos so that non-developers can update the main website. I also pioneered the conversion from behavior-driven development (BDD) to test-driven development (TDD) via PhP PEST",
+        "keywords": ["Backend Development", "E-Commerce", "Laravel"],
+        "company": "Switch",
+        "companyLink": "https://shop.switch.com.my/",
+        "pin": false
+    },
+    {
+        "title" : "Peer Tutor",
+        "image" : "peer_tutor.png",
+        "date": "2019-2020",
+        "description": "I was the only official peer tutor for the entire general chemistry and organic chemistry courses. I also helped students in their introductory coding courses.",
+        "keywords": ["Tutoring", "Organic Chemistry", "Coding"],
+        "company": "Cooper Union",
+        "companyLink": "",
+        "pin": false
+    }
+]
