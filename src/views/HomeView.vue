@@ -54,7 +54,7 @@
           </span>
           <span>
             <h1 class="font-bold text-gray-400 text-lg border-b-2 border-yellow">AWARDS & <br>SCHOLARSHIPS</h1>
-            <p class="font-bold text-4xl mb-5"> $29,000 </p>
+            <p class="font-bold text-4xl mb-5">  </p>
           </span>
           <span>
             <h1 class="font-bold text-gray-400 text-lg border-b-2 border-yellow">Personality Type</h1>
@@ -117,26 +117,26 @@
       </div>
       <!-- Bio -->
       <div>
-        <h1 class="text-lg font-semibold px-4 pb-2">Andrew stays on top of cutting-edge research in <b> nanomaterials </b> and is eager to use his engineering perspective to create more efficient and eco-friendly<b> battery and energy storage </b> technologies.</h1>
+        <h1 class="text-lg font-semibold px-4 pb-2">Andrew uses his interest in computation, optimization, and machine learning to further his research in cutting-edge <b> nanomaterials </b> and <b> energy storage </b>. He is eager to use his background in chemical engineering, prowess in project management, and adept communication skills to take on dynamic and impactful large-scale projects that will drive the future towards a <b> sustainable </b> future.</h1>
       </div>
       <!-- Research Interets -->
       <div>
-        <h1 class="text-2xl font-semibold ">Research Interests</h1>
+        <h1 class="text-2xl font-semibold ">Interests</h1>
         <div class="flex justify-center flex-wrap">
-          <Bubble name='Next-Generation Batteries' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-          <Bubble name='Carbon Nanomaterials' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
-          <Bubble name='Quantum Dots' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-          <Bubble name='Supercapacitors' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+          <Bubble name='Automatic Materials Discovery' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+          <Bubble name='Energy Storage' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+          <Bubble name='Nanomaterials' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+          <Bubble name='AI in Engineering' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
         </div>
       </div>
       <!-- Skills -->
       <div>
         <h1 class="text-2xl font-semibold">Skills</h1>
         <div class="flex justify-center flex-wrap">
-          <Bubble name='Python Programming' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
-          <Bubble name='Computational Chemistry' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-          <Bubble name='Web Development' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
-          <Bubble name='Machine Learning' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+          <Bubble name='Machine Learning' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+          <Bubble name='Chemical Simulation' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+          <Bubble name='Process Optimization' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+          <Bubble name='Written & Verbal Communication' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
         </div>
       </div>
     </div>

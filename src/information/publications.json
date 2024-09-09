@@ -1,4 +1,43 @@
-[
+[   
+    {
+        "title" : "Recent Progress in PEG-Based Composite Phase Change Materials.",
+        "date" : "06/07/23",
+        "journal" : "Polymer Reviews",
+        "publisher" : "Taylor & Francis",
+        "DOI" : "10.1080/15583724.2023.2220041",
+        "image" : "06_07_23-GA.png",
+        "description" : "This review addresses the latest developments in polyethylene glycol (PEG) as a phase change material (PCM) for energy storage and thermal regulation.",
+        "firstAuthor" : true,
+        "type" : "Review",
+        "keywords" : ["Polymers", "PEG", "Phase Change Materials"],
+        "pin": false
+    },
+    {
+        "title" : "Recent Advances in Modified Commercial Separators for Lithium–Sulfur Batteries. ",
+        "date" : "02/02/23",
+        "journal" : "Membranes",
+        "publisher" : "MDPI",
+        "DOI" : "10.3390/membranes13020183",
+        "image" : "02_02_23-GA.png",
+        "description" : "This review addresses the latest developments in nanofiber-based separators for lithium-sulfur batteries.",
+        "firstAuthor" : true,
+        "type" : "Review",
+        "keywords" : ["Batteries", "Nanofibers", "Membranes"],
+        "pin": false
+    },
+    {
+        "title" : "Recent Development in Novel Lithium-Sulfur Nanofiber Separators: A Review of the Latest Fabrication and Performance Optimizations. ",
+        "date" : "02/02/23",
+        "journal" : "Journal of Materials Chemistry A",
+        "publisher" : "Royal Society of Chemistry",
+        "DOI" : "10.1039/D2TA09266B",
+        "image" : "03_14_23-GA.png",
+        "description" : "This review addresses the latest developments in modified commercial separators for lithium-sulfur batteries, focusing on the effects of various modifications on the separator's performance and the overall battery performance.",
+        "firstAuthor" : true,
+        "type" : "Review",
+        "keywords" : ["Batteries", "Nanomaterials", "Membranes"],
+        "pin": true
+    },
     {
         "title" : "Review on thin-film nanocomposite membranes with various quantum dots for water treatments",
         "date" : "02/25/23",

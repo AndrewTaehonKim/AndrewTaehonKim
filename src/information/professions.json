@@ -1,5 +1,15 @@
 [
     {
+        "title" : "Core Technology Intern",
+        "image" : "ace.jpg",
+        "date": "Summer 2024",
+        "description": "Implemented machine learning models, including neural networks, evolutionary algorithms, and ensemble methods, to parameterize a model that can help predict the occurence of corrosion.",
+        "keywords": ["Machine Learning", "Chemical Properties Software", "Software Development"],
+        "company": "OLI Systems",
+        "companyLink": "https://www.olisystems.com/",
+        "pin": true
+    },
+    {
         "title" : "Senior Caretaker",
         "image" : "ace.jpg",
         "date": "2021-2023",
@@ -12,7 +22,7 @@
     {
         "title" : "Lab Technician",
         "image" : "labtech.jpg",
-        "date": "2019-2020",
+        "date": "2019-Present",
         "description": "I set up and cleaned up experiments performed by freshme, sophomore, and junior Chemistry students.",
         "keywords": ["Chemistry", "Laboratory", "Experiment Preparation"],
         "company": "Cooper Union",

@@ -1,5 +1,16 @@
 [
     {
+        "title" : "Design, Build, Fly: Airplane Drone for International Competition",
+        "image" : "AIAA.jpg",
+        "date": "2023",
+        "link": "",
+        "description": "Leading the computational simulation, electronics management, and safety as the VP of Cooper Union’s AIAA team to compete against over 100 teams worldwide.",
+        "keywords": ["International Competition", "Drone Design and Manufacturing", "Aerodynamics"],
+        "company": "American Institute of Aeronautics and Astronautics (AIAA) Design/Build/Fly (DBF)",
+        "companyLink": "https://www.aiaa.org/dbf",
+        "pin": true
+    },
+    {
         "title" : "AirShare: Improving Airflow Between Rooms with the Door Closed",
         "image" : "airshare.gif",
         "date": "2020",
