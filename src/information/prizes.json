@@ -33,13 +33,69 @@
         "pin": false
     },
     {
+        "title" : "Innovators Scholarship",
+        "image" : "cooper.png",
+        "date": "2018-2020; 2023-2024",
+        "link": "",
+        "amount": 8000,
+        "description": "The Cooper Union's merit-based scholarship awarded to distinguished Cooper Union students.",
+        "company": " Cooper Union",
+        "companyLink": "https://cooper.edu/sites/default/files/uploads/assets/admissions/financial_aid.pdf",
+        "pin": false
+    },
+    {
         "title" : "Military Recognition of Exemplary Character",
         "image" : "",
         "date": "2022",
         "link": "",
         "amount": 300,
         "description": "Awarded a certificate of recognition for exemplary character and leadership in the military by the mayor of Seoul, .",
+        "company": "Republic of Korea Government",
         "companyLink": "",
+        "pin": true
+    },
+    {
+        "title" : "Full-tuition Scholarship",
+        "image" : "cooper.png",
+        "date": "2018-2020; 2023",
+        "link": "",
+        "amount": 46800,
+        "description": "The Cooper Union's merit-based scholarship awarded to all Cooper Union undergraduate senior students in good standing.",
+        "company": " Cooper Union",
+        "companyLink": "https://cooper.edu/sites/default/files/uploads/assets/admissions/financial_aid.pdf",
+        "pin": false
+    },
+    {
+        "title" : "Half-tuition Scholarship",
+        "image" : "cooper.png",
+        "date": "2018-2020; 2023",
+        "link": "",
+        "amount": 70200,
+        "description": "The Cooper Union's merit-based scholarship awarded to all Cooper Union undergraduate students in good standing.",
+        "company": " Cooper Union",
+        "companyLink": "https://cooper.edu/sites/default/files/uploads/assets/admissions/financial_aid.pdf",
+        "pin": false
+    },
+    {
+        "title" : "Dean Baker's Athletic Scholarship",
+        "image" : "cooper.png",
+        "date": "2019",
+        "link": "",
+        "amount": 1000,
+        "description": "The Cooper Union's merit-based scholarship awarded to distinguished Cooper Union student athlete.",
+        "company": " Cooper Union",
+        "companyLink": "https://cooper.edu/sites/default/files/uploads/assets/admissions/financial_aid.pdf",
+        "pin": false
+    },
+    {
+        "title" : "Robert Greenwald Memorial Scholarship & Emanuel Salma Memorial Fund",
+        "image" : "cooper.png",
+        "date": "2019",
+        "link": "",
+        "amount": 1400,
+        "description": "The Cooper Union's merit-based scholarship awarded to distinguished Cooper Union students. This award was made possible through the generation donation of Dr. A. Seth Greenwald and Helen R, Loverro to The Cooper Union.",
+        "company": " Cooper Union",
+        "companyLink": "https://cooper.edu/sites/default/files/uploads/assets/admissions/financial_aid.pdf",
         "pin": false
     }
 ]

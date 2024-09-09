@@ -1,7 +1,7 @@
 <template>
     <a :href="link"  target=blank>
     <!-- Computer -->
-        <div class="slide hidden lg:grid grid-cols-7 grid-rows-1 h-1/4 align-middle justify-center my-10">
+        <div class="slide hidden lg:grid grid-cols-7 grid-rows-1 h-1/4 align-middle justify-center mb-10">
             <!-- Image Side -->
             <div class="flex justify-end col-start-2 col-span-2">
                 <img :src="'/prizes/'+image" alt="" class="max-h-56 my-auto">
