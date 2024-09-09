@@ -30,7 +30,7 @@
                 <NavBarContact name='linkedIn' link='https://www.linkedin.com/in/andrewtaehonkim/'/>
                 <NavBarContact name='github' link='https://github.com/AndrewTaehonKim' />
                 <NavBarContact name='ORCID' link='https://orcid.org/0000-0003-2379-1178' />
-                <NavBarContact name='resume' link='../src/assets/resume.pdf'/>
+                <NavBarContact name='resume' link='/resume.pdf'/>
             </div>
         </div>
     </div>

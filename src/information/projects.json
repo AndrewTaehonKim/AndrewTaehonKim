@@ -2,13 +2,46 @@
     {
         "title" : "Design, Build, Fly: Airplane Drone for International Competition",
         "image" : "AIAA.jpg",
-        "date": "2023",
+        "date": "2023-2024",
         "link": "",
         "description": "Leading the computational simulation, electronics management, and safety as the VP of Cooper Union’s AIAA team to compete against over 100 teams worldwide.",
         "keywords": ["International Competition", "Drone Design and Manufacturing", "Aerodynamics"],
         "company": "American Institute of Aeronautics and Astronautics (AIAA) Design/Build/Fly (DBF)",
         "companyLink": "https://www.aiaa.org/dbf",
         "pin": true
+    },
+    {
+        "title" : "Batteries at The Cooper Union",
+        "image" : "shalaby_battery.png",
+        "date": "2023",
+        "link": "",
+        "description": "My colleague and I co-led the initiative to introduce electrochemical battery research into The Cooper Union. Currently, there is no course nor experimental research on energy storage and batteries at The Cooper Union due to lacking infrastructure. My role was to pioneer more 'homemade' methods of introducing battery research to undergraduate students to prompt the administration to raise funds for a battery lab. Rudimentary lithium ion batteries were created and tested in the makeshift lab using air-safe materials and domestically available equipment.",
+        "keywords": ["Electrochemistry", "Energy Storage", "Education"],
+        "company": "Cooper Union - Electrochemical Climate Technologies",
+        "companyLink": "",
+        "pin": false
+    },
+    {
+        "title" : "PVC Synthesis, Scale-up, and Distribution Analysis",
+        "image" : "pvc.png",
+        "date": "2023",
+        "link": "",
+        "description": "Graduate course project analyzing the synthesis, scale-up, safety, and distribution of PVC window frames. The project was submitted as written and verbal reports.",
+        "keywords": ["Polymers", "Industrial Scale-up", "Safety"],
+        "company": "Cooper Union - Polymer Engineering",
+        "companyLink": "",
+        "pin": false
+    },
+    {
+        "title" : "Electrochemical Carbon Capture",
+        "image" : "shalaby_electrochem.png",
+        "date": "2023",
+        "link": "",
+        "description": "Designed and reported on a potential implementation of a sodium hydroxide-based electrochemical direct air capture (CO2 capture) system to be implemented at The Cooper Union using existing infrastructure. The project was submitted as written and verbal reports.",
+        "keywords": ["Electrochemistry", "Carbon Capture", "Sustainability"],
+        "company": "Cooper Union - Electrochemical Climate Technologies",
+        "companyLink": "",
+        "pin": false
     },
     {
         "title" : "AirShare: Improving Airflow Between Rooms with the Door Closed",
