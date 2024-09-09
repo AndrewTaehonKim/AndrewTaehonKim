@@ -1,0 +1,45 @@
+[
+    {
+        "title" : "IDC Foundation Innovation Fellowship",
+        "image" : "idc.jpg",
+        "date": "2024",
+        "link": "",
+        "amount": 25000,
+        "description": " The IDC Foundation Innovation Fellowship is a merit-based scholarship awarded to students who demonstrate exceptional academic performance and career potential to develop innovative, interdisciplinary solutions to pressing societal needs.",
+        "company": " Institute of Design and Construction (IDC)",
+        "companyLink": "https://www.idcfoundation.org/",
+        "pin": true
+    },
+    {
+        "title" : "Tau Beta Pi Fellowship",
+        "image" : "tbp.jpg",
+        "date": "2024",
+        "link": "https://www.tbp.org/memb/FellowsBios/2024-25.pdf",
+        "amount": 10000,
+        "description": "The Tau Beta Pi Association is the oldest engineering honor society in the US. The Fellowship Program is Tau Beta Pi's single most important project for the advancement of engineering education and the profession.",
+        "company": "Tau Beta Pi",
+        "companyLink": "https://www.tbp.org/home.cfm",
+        "pin": true
+    },
+    {
+        "title" : "MENY Scholarship",
+        "image" : "MENY.png",
+        "date": "2023",
+        "link": "https://cooper.edu/engineering/news/andrew-kim-che25-awarded-2023-meny-scholarship",
+        "amount": 2500,
+        "description": "The MENY was established as a society in April 1903 to promote and advance various engineering sciences in the City of New York and to elevate the standards of proficiency in technical services in the city. It became one of the leading technical and professional organizations in the city, further broadening the interpretation of professional affiliation, mission, goals, and objectives.",
+        "company": " Municipal Engineers of the City of New York (MENY)",
+        "companyLink": "https://www.muniengineersnyc.org/index.html",
+        "pin": false
+    },
+    {
+        "title" : "Military Recognition of Exemplary Character",
+        "image" : "",
+        "date": "2022",
+        "link": "",
+        "amount": 300,
+        "description": "Awarded a certificate of recognition for exemplary character and leadership in the military by the mayor of Seoul, .",
+        "companyLink": "",
+        "pin": false
+    }
+]

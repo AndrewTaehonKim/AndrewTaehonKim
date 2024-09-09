@@ -1,7 +1,7 @@
 [
     {
         "title" : "Core Technology Intern",
-        "image" : "ace.jpg",
+        "image" : "OLI.jpg",
         "date": "Summer 2024",
         "description": "Implemented machine learning models, including neural networks, evolutionary algorithms, and ensemble methods, to parameterize a model that can help predict the occurence of corrosion.",
         "keywords": ["Machine Learning", "Chemical Properties Software", "Software Development"],
@@ -27,7 +27,7 @@
         "keywords": ["Chemistry", "Laboratory", "Experiment Preparation"],
         "company": "Cooper Union",
         "companyLink": "",
-        "pin": true
+        "pin": false
     },
     {
         "title" : "Web Development Intern",
@@ -37,7 +37,7 @@
         "keywords": ["Backend Development", "E-Commerce", "Laravel"],
         "company": "Switch",
         "companyLink": "https://shop.switch.com.my/",
-        "pin": false
+        "pin": true
     },
     {
         "title" : "Peer Tutor",

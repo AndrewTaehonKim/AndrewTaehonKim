@@ -23,7 +23,7 @@
     },
     {
         "title" : "CardboardTests",
-        "image" : "cbt.jpg",
+        "image" : "cbt.JPG",
         "date": "2023",
         "link": "https://cardboardtests.com/",
         "description": "I co-founded CardboardTests, a platform for students to create and share exam-like test questions. CBT gives access to test-like problems for students all around the world regardless of financial status or race.",
@@ -34,7 +34,7 @@
     },
     {
         "title" : "This Website",
-        "image" : "website.jpg",
+        "image" : "website.JPG",
         "date": "2023",
         "link": "https://andrewtaehonkim.github.io/",
         "description": "This personal website was designed and created from scratch using Vue.js and maintained using GitHub Pages.",

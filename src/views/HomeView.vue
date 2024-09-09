@@ -14,19 +14,19 @@
           <span>
             <h1 class="font-bold text-gray-400 text-lg text-right mr-2 border-b-2 border-yellow">RESEARCH INTERESTS</h1>
             <div  class="flex flex-wrap justify-end">
-              <Bubble name='Next-Generation Batteries' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-              <Bubble name='Carbon Nanomaterials' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
-              <Bubble name='Quantum Dots' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-              <Bubble name='Supercapacitors' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+              <Bubble name='Materials Discovery' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+              <Bubble name='Nanomaterials' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+              <Bubble name='AI in Chemistry' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+              <Bubble name='Energy Storage' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
             </div>
           </span>
           <span>
             <h1 class="font-bold text-gray-400 text-lg text-right mr-2 border-b-2 border-yellow">SKILLS</h1>
             <div  class="flex flex-wrap justify-end">
-              <Bubble name='Python Programming' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
-              <Bubble name='Computational Chemistry' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
-              <Bubble name='Web Development' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
               <Bubble name='Machine Learning' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+              <Bubble name='Chemical Simulation' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
+              <Bubble name='Optimization' bgcolor1='#75C9B7' bgcolor2='#ABD699' />
+              <Bubble name='Project Management' bgcolor1='#ABD699' bgcolor2='#75C9B7' />
             </div>
           </span>
         </div>
@@ -37,7 +37,7 @@
           <img src="/src/assets/home/portrait.png" alt="" class="w-2/3 rounded-t-full mx-auto mb-10"  style="background: linear-gradient(#ABD699, #75C9B7)">
           <!-- Who am I? -->
           <div>
-              <h1 class="text-lg font-semibold px-4 pb-2">Andrew stays on top of cutting-edge research in <b> nanomaterials </b> and is eager to use his engineering perspective to create more efficient and eco-friendly<b> battery and energy storage </b> technologies.</h1>
+              <h1 class="text-lg font-semibold px-4 pb-2">Andrew uses his background in chemical engineering with his expertise in computation and machine learning to <b> model and optimize systems</b>. He aims to to use his experience managing multiple projects simultaneously and adept written and verbal communication skills to lead dynamic and impactful large-scale projects that will move the world towards a more <b> sustainable future</b>.</h1>
           </div>
         </div>
       </div>
@@ -53,12 +53,12 @@
             <router-link to="/projects"><p class="font-bold text-6xl mb-5"> {{Object.keys(projects).length}} </p></router-link> 
           </span>
           <span>
-            <h1 class="font-bold text-gray-400 text-lg border-b-2 border-yellow">AWARDS & <br>SCHOLARSHIPS</h1>
-            <p class="font-bold text-4xl mb-5">  </p>
+            <h1 class="font-bold text-gray-400 text-lg border-b-2 border-yellow">Awards & <br>Fellowships</h1>
+            <router-link to="/about"><p class="font-bold text-4xl mb-5"> ${{Object.values(prizes).reduce((total, prize) => total + (prize.amount || 0), 0)}} </p></router-link> 
           </span>
           <span>
             <h1 class="font-bold text-gray-400 text-lg border-b-2 border-yellow">Personality Type</h1>
-            <p class="font-bold text-4xl mb-5"> ENTJ-A </p>
+            <p class="font-bold text-3xl mb-5"> ENTJ-A </p>
           </span>
 
         </div>
@@ -103,6 +103,20 @@
             <h2 class="text-4xl font-extrabold" >{{Object.keys(projects).length}}</h2>
           </router-link>
         </div>
+        <!-- Awards -->
+        <div class="flex-column col-start-1 col-span-2 row-start-2 row-span-1 mt-auto mx-2 text-center">
+          <router-link to="/publications">
+            <h1 class="text-lg font-bold border-black border-2 rounded-md text-gra">Awards & Fellowships</h1>
+            <h2 class="text-4xl font-extrabold" >${{Object.values(prizes).reduce((total, prize) => total + (prize.amount || 0), 0)}} </h2>
+          </router-link>
+        </div>
+        <!-- Personality -->
+        <div class="flex-column row-start-2 row-span-1 col-span-2 col-start-5 mt-auto mx-2 text-center">
+          <router-link to="/projects">
+            <h1 class="text-lg font-bold border-black border-2 rounded-md text-gra">Personality Type</h1>
+            <h2 class="text-4xl font-extrabold" >ENTJ-A</h2>
+          </router-link>
+        </div>
         <!-- Publishers -->
         <div class="row-start-5 row-span-2 col-span-full w-ful inline-flex items-center justify-center flex-wrap">
           <img src="/src/assets/publishers/acs.png" alt="" class="h-10 mx-2 grayscale">
@@ -145,5 +159,6 @@
 <script>
   import publications from '../information/publications.json'
   import projects from '../information/projects.json'
+  import prizes from '../information/prizes.json'
 
 </script>

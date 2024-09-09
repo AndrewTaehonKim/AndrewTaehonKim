@@ -9,7 +9,7 @@
     <!-- For Desktop -->
     <div class="hidden lg:inline-flex w-full h-full mb-12 justify-center">
         <!-- Links -->
-        <div class="inline-flex w-1/3 h-full my-auto ">
+        <div class="sm:w-1/2 xl:w-1/3 inline-flex h-full my-auto">
             <NavBarLink name='Publications'/>
             <NavBarLink name='Projects'/>
             <NavBarLink name='Professions'/>
@@ -17,7 +17,7 @@
         </div>
         <!-- Home Icon -->
         <router-link to="/">
-            <div class="w-1/3 inline-flex justify-center ">
+            <div class="w-1/2 inline-flex justify-center ">
                 <div class="text-3xl my-auto mr-3 font-extrabold">Andrew</div>
                 <img src="/src/assets/logo_home.png" alt="logo" class="mx-auto h-20 rounded-lg">
                 <div class="text-3xl my-auto ml-3 font-extrabold">Kim</div>
