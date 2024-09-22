@@ -17,7 +17,7 @@
         "link": "",
         "description": "My colleague and I co-led the initiative to introduce electrochemical battery research into The Cooper Union. Currently, there is no course nor experimental research on energy storage and batteries at The Cooper Union due to lacking infrastructure. My role was to pioneer more 'homemade' methods of introducing battery research to undergraduate students to prompt the administration to raise funds for a battery lab. Rudimentary lithium ion batteries were created and tested in the makeshift lab using air-safe materials and domestically available equipment.",
         "keywords": ["Electrochemistry", "Energy Storage", "Education"],
-        "company": "Cooper Union - Electrochemical Climate Technologies",
+        "company": "Cooper Union",
         "companyLink": "",
         "pin": false
     },
@@ -41,6 +41,17 @@
         "keywords": ["Electrochemistry", "Carbon Capture", "Sustainability"],
         "company": "Cooper Union - Electrochemical Climate Technologies",
         "companyLink": "",
+        "pin": false
+    },
+    {
+        "title" : "Graphical User Interface for Molecular Dynamics Simulator",
+        "image" : "transrotgui.png",
+        "date": "2023",
+        "link": "https://plastic-study-e80.notion.site/a02117be0b7449fd83d3598ce7dc5d46?v=65542e1e346b49a48ed6c539e159abb7&pvs=4",
+        "description": "Created a cross-platform GUI for a molecular dynamics simulator using Python and Qt (Pyside6). The goal of the GUI was to  increase user accessibility by enabling seamless visualization of the input and output files of the molecular dynamics simulator, TransRot, created by Dr. Robert Q. Topper and Steven Topper. Documentation is provided in the linked Notion Wikipage.",
+        "keywords": ["Electrochemistry", "Carbon Capture", "Sustainability"],
+        "company": "Cooper Union",
+        "companyLink": "https://github.com/steventopper/TransRot",
         "pin": false
     },
     {
